@@ -1,0 +1,17 @@
+Inheritance:
+a machine learning library in Python, where classes like DecisionTreeClassifier and Random Forest Classifier inherit behaviors from a base class to support common machine learning algorithms
+
+
+polymorphism
+
+can be seen in payment methods like using credit/debit/upi/netbanking a single payment gateway can be responsible for maintaining this
+
+abstraction:
+
+Music players like Spotify or Apple Music abstract the complex process of music streaming, allowing users to easily navigate and play their music libraries.
+
+and Simulator games
+
+Encapsulation:
+
+ binding the customer details in banking sector (details and depositing,withdrawing,checking) etc
